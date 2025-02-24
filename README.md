@@ -17,3 +17,13 @@ amount of gas available (from all gas stations) is enough to travel to all citie
 starts out empty, and a positive integer value for the number of miles that your car can travel per
 gallon of fuel (miles per gallon, or MPG) is also given.
 Design an algorithm that returns the index of the preferred starting city.
+
+
+## Mathematical analysis and correct Big O efficiency class
+
+The program uses 2 loops of length n = 5, therefore at max the program will wun n^2 times or 25 times in this example
+
+## Instructions
+
+Simply open up *greedy.java* in your chosen ide and run. if you want to change the results then 
+edit arrays *city_distances* and *fuel* and int *mpg* 
