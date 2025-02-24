@@ -21,7 +21,7 @@ Design an algorithm that returns the index of the preferred starting city.
 
 ## Mathematical analysis and correct Big O efficiency class
 
-The program uses 2 loops of length n = 5, therefore at max the program will wun n^2 times or 25 times in this example
+The program uses 2 loops of length n = 5, therefore at max the program will wun n^2 times or 25 times in this example and the time complexity is O(n^2)
 
 ## Instructions
 
